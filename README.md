@@ -1,0 +1,2 @@
+# GW
+amazon,oracle
